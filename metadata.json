@@ -1,0 +1,9 @@
+{
+    "shell-version": [
+        "3.16"
+    ],
+    "uuid": "bug@gnome-shell-extensions.gnome.org",
+    "name": "bug",
+    "description": "bug"
+}
+
